@@ -9,6 +9,7 @@ Warning: This repo may be removed in the future.
     git submodule init
     git submodule update
     bash change_layouts.sh
+    bash generate_all.sh
 
 ### Developers
 
