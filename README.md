@@ -1,16 +1,20 @@
-This repo is used to easily and quickly deploy four websites with different layouts.  
+This repo is used to easily and quickly deploy websites with different layouts.  
 Submodules may be not updated in time.  
-Warning: This repo may be removed in the future.
+> Warning: This repo may be removed in the future.
 
-### Usage
+## Requirements
+
+* jekyll 1.0
+
+## Usage
 
     git clone git://github.com/qnn/template-all.git
     cd template-all/
     git submodule init
     git submodule update
-    bash change_layouts.sh
+    bash update_layouts.sh
     bash generate_all.sh
 
-### Developers
+## Developers
 
 * caiguanhao
