@@ -1,0 +1,12 @@
+[submodule "alpha"]
+	path = alpha
+	url = git@github.com:qnn/template.git
+[submodule "beta"]
+	path = beta
+	url = git@github.com:qnn/template.git
+[submodule "gamma"]
+	path = gamma
+	url = git@github.com:qnn/template.git
+[submodule "delta"]
+	path = delta
+	url = git@github.com:qnn/template.git
